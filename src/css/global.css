@@ -1,12 +1,12 @@
-@import url('/src/css/variable.css');
-@import url('/src/css/font.css');
+@import url('./variable.css');
+@import url('./font.css');
 
 /* Layout */
-@import url('/src/css/layout/header.css');
-@import url('/src/css/layout/footer.css');
+@import url('./layout/header.css');
+@import url('./layout/footer.css');
 
 /* Pages */
-@import url('/src/css/pages/home.css');
+@import url('./pages/home.css');
 @import url('/src/css/pages/dinamic.css');
 @import url('/src/css/pages/photos.css');
 @import url('/src/css/pages/videos.css');
