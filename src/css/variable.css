@@ -1,0 +1,7 @@
+:root {
+    --menuBg: rgba(25, 63, 100, 1);
+    --dateColor: rgba(255, 255, 255, 1);
+    --carouselCol: rgba(208, 117, 37, 1);
+    --titleColor: rgba(0, 0, 0, 1);
+    --timeColor: rgba(109, 109, 109, 1);
+}
